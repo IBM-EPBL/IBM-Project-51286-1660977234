@@ -4,7 +4,7 @@
 <!-- PROJECT LOGO -->
   
    <a href="https://github.com/IBM-EPBL/IBM-Project-51286-1660977234">
-  <img scr="https://github.com/santhosh191221/santhosh191221/blob/d7a5244cb3bcf2cbf4d5fb6fc185590b63527a83/IBM_logo.svg.png" alt="Logo" width="320" height="128">
+  <img scr="https://raw.githubusercontent.com/santhosh191221/santhosh191221/d7a5244cb3bcf2cbf4d5fb6fc185590b63527a83/IBM_logo.svg.png" alt="logo" width="320" height="128">
  </a>
 
 <br />
