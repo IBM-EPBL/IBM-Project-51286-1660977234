@@ -34,10 +34,6 @@
 - GOKULNATH V 
 
 
-
-
-
-
 # 💻REQUIRED SKILLS
 
 IBM Cloud,IBM Cloud Object Storage,Python,IBM Watson IoT Platform,Node-RED service,Cloudant DB,Appinvent.
