@@ -4,12 +4,12 @@
 <!-- PROJECT LOGO -->
   
    <a href="https://github.com/IBM-EPBL/IBM-Project-51286-1660977234">
-  <img src="https://raw.githubusercontent.com/santhosh191221/santhosh191221/main/IBM_logo.svg.png" alt="Logo" width="320" height="128">
+  <img src="https://raw.githubusercontent.com/santhosh191221/santhosh191221/main/IBM_logo.svg.png" alt="Logo"  width="320" height="128">
  </a>
 
 <br/>
 
-<div align= left>
+<div align="center">
   
   
   
