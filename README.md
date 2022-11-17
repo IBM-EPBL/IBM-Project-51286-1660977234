@@ -3,13 +3,8 @@ Gas Leakage monitoring &amp; Alerting system for Industries
 
 <!-- PROJECT LOGO -->
 
-  <a href="https://github.com/IBM-EPBL/IBM-Project-17477-1659672111">
-    <img 
+  <a href="https://github.com/IBM-EPBL/IBM-Project-51286-1660977234">
 
-src="https://raw.githubusercontent.com/FaraazAhmedC/FaraazAhmedC/mai
-
-n/IBM_logo.svg.png" alt="Logo" width="320" height="128">
- 
  </a>
 
 <br />
