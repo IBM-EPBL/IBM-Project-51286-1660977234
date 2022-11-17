@@ -21,7 +21,7 @@
 - TECHNOLOGY : INTERNET OF THINGS (IoT)
 - TEAM ID : PNT2022TMID29465
 
-#  📑PROJECT DESCRIPTION
+# 📑 PROJECT DESCRIPTION
 - This project helps the industries in monitoring the emission of harmful gases
 - In several areas, the gas sensors will be integrated to monitor the gas leakage
 - If in any area gas leakage is detected the admins will be notified along with the location
@@ -34,6 +34,6 @@
 - GOKULNATH V 
 
 
-# 💻REQUIRED SKILLS
+# 🎯REQUIRED SKILLS
 
 IBM Cloud,IBM Cloud Object Storage,Python,IBM Watson IoT Platform,Node-RED service,Cloudant DB,Appinvent.
