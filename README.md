@@ -16,7 +16,7 @@
 </div>
 
 
-# **GAS LEAKAGE MONITORING AND ALERTING SYSTEM FOR INDUSTRIES**
+# **⛽⛽GAS LEAKAGE MONITORING AND ALERTING SYSTEM FOR INDUSTRIES**
 
 - TECHNOLOGY : INTERNET OF THINGS (IoT)
 - TEAM ID : PNT2022TMID29465
@@ -27,7 +27,7 @@
 - If in any area gas leakage is detected the admins will be notified along with the location
 - In the web application, admins can view the sensor parameters.
 
-# ** TEAM MEMBERS**
+## 👨‍💻 TEAM MEMBERS**
 - SANTHOSH V
 - SHARANSRINIVAS  D S
 - VISHVAA S V 
