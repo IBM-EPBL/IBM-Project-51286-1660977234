@@ -1,8 +1,7 @@
 # IBM-Project-51286-1660977234
-Gas Leakage monitoring &amp; Alerting system for Industries
+
 
 <!-- PROJECT LOGO -->
-
   <a href="https://github.com/IBM-EPBL/IBM-Project-51286-1660977234">
 
  </a>
@@ -11,7 +10,7 @@ Gas Leakage monitoring &amp; Alerting system for Industries
 
 <div align= left>
   
-  # **IBM-Project-51286-1660977234**
+  
   
 </div>
 
